@@ -1,3 +1,5 @@
 # 핸즈온 머신러닝
-
-  들여쓰기로 만들어진 코드입니다.
+``` C
+printf("Hello world !\n");
+printf("code Block \n");
+```
