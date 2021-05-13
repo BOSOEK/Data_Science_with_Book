@@ -32,3 +32,7 @@
     * 여러 개의 클래스가 있는 분류 문제 : 범주형 크로스엔트로피
     * 회귀 문제 : 평균 제곱 오차
     * 시퀀스 학습 문제 : CTC(Connection Temporal Classification)
+***
+# 문제 풀이
+* ### [영화 리뷰 분류 : 이진 분류 예제](https://github.com/BOSOEK/Machine_Learning/blob/main/Learn%26Study/Book/Deep_learning_from_the_founder_of_Keras/Chapter_3/%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%EB%B6%84%EB%A5%98_%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98%EC%98%88%EC%A0%9C.ipynb)
+* ### [뉴스 기사 분류 : 다중 분류 문제]()
