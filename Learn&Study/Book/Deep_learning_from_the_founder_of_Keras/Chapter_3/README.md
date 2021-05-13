@@ -35,4 +35,4 @@
 ***
 # 문제 풀이
 * ### [영화 리뷰 분류 : 이진 분류 예제](https://github.com/BOSOEK/Machine_Learning/blob/main/Learn%26Study/Book/Deep_learning_from_the_founder_of_Keras/Chapter_3/%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%EB%B6%84%EB%A5%98_%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98%EC%98%88%EC%A0%9C.ipynb)
-* ### [뉴스 기사 분류 : 다중 분류 문제]()
+* ### [뉴스 기사 분류 : 다중 분류 문제](https://github.com/BOSOEK/Machine_Learning/blob/main/Learn%26Study/Book/Deep_learning_from_the_founder_of_Keras/Chapter_3/%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC%EB%B6%84%EB%A5%98_%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98%EB%AC%B8%EC%A0%9C.ipynb)
