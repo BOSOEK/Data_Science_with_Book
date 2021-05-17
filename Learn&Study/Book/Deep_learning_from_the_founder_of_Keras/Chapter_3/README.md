@@ -37,4 +37,12 @@
 * ### [영화 리뷰 분류 : 이진 분류 예제](https://github.com/BOSOEK/Machine_Learning/blob/main/Learn%26Study/Book/Deep_learning_from_the_founder_of_Keras/Chapter_3/%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%EB%B6%84%EB%A5%98_%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98%EC%98%88%EC%A0%9C.ipynb)
 * ### [뉴스 기사 분류 : 다중 분류 문제](https://github.com/BOSOEK/Machine_Learning/blob/main/Learn%26Study/Book/Deep_learning_from_the_founder_of_Keras/Chapter_3/%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC%EB%B6%84%EB%A5%98_%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98%EB%AC%B8%EC%A0%9C.ipynb)
 * ### [주택 가격 예측 : 회귀 문제](https://github.com/BOSOEK/Machine_Learning/blob/main/Learn%26Study/Book/Deep_learning_from_the_founder_of_Keras/Chapter_3/%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1_%ED%9A%8C%EA%B7%80%EB%AC%B8%EC%A0%9C.ipynb)
-* ### [요약]()
+***
+# 정리
+* #### 신경망에 데이터를 주입하기 전에 전처리를 해야 한다.
+* #### 데이터에 범위(스케일)가 다른 특성(feature)가 있다면 전처리 단계에서 특성을 독립적으로 조정해야 한다.
+* #### 훈련이 진행되면서 점차 신경망이 과대적합 되고 새로운 데이터에 나쁜 결과를 얻는다
+* #### 훈련 데이터가 많지 않으면 과대적합을 피하기 위해 1 or 2개의 은닉층을 가진 신경망을 사용한다.
+* #### 데이터가 많은 범주로 나뉘었을 때 중간층이 작으면 정보의 병목이 생길 수 잇다.
+* #### 회귀는 분류와 다른 손실함수 & 평가 지표를 사용한다
+* #### 적은 데이터를 사용할 때는 __K-겹 검증이 모델__ 의 신뢰 평가를 도와준다.
