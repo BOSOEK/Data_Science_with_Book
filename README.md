@@ -30,5 +30,6 @@ __책으로 공부하는 Machine Learning(Data Science) 입니다.__
 
 
 #### 😎 저자 : 조경래
-#### ✏️ [코드 보기]()
+#### ✏️ [코드 보기](https://github.com/BOSOEK/Machine_Learning_with_Book/tree/main/Deep_Learning_Chatbot_for_First_Time)
 #### 🎺 후기
+~ing
