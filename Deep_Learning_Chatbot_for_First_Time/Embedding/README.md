@@ -8,3 +8,10 @@
 * 단어 임베딩 : 개별 단어를 벡터로 표현하는 방법
   > 장점 : 문장 임베딩보다 학습이 간단하다
   > 단점 : 의미가 달라도 형태가 같다면 동일한 벡터값으로 표현
+
+***
+
+### 임베딩 방식
+#### [1. 원-핫 인코딩](https://github.com/BOSOEK/Machine_Learning_with_Book/blob/main/Deep_Learning_Chatbot_for_First_Time/Embedding/Word_Embedding.ipynb)
+#### [2. 희소 표현과 분산 표현]()
+#### [3. Word2Vec]()
