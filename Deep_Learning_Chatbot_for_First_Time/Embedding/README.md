@@ -12,6 +12,6 @@
 ***
 
 ### 임베딩 방식
-* #### [원-핫 인코딩](https://github.com/BOSOEK/Machine_Learning_with_Book/blob/main/Deep_Learning_Chatbot_for_First_Time/Embedding/Word_Embedding.ipynb)
+* #### [원-핫 인코딩](https://github.com/BOSOEK/Machine_Learning_with_Book/blob/main/Deep_Learning_Chatbot_for_First_Time/Embedding/one-hot-encodding.ipynb)
 * #### [희소 표현과 분산 표현]()
 * #### [Word2Vec]()
