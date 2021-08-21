@@ -33,3 +33,14 @@ __책으로 공부하는 Machine Learning(Data Science) 입니다.__
 #### ✏️ [코드 보기](https://github.com/BOSOEK/Machine_Learning_with_Book/tree/main/Deep_Learning_Chatbot_for_First_Time)
 #### 🎺 후기
 ~ing
+
+***
+
+### 4. 실전 GAN 프로젝트
+<img src="https://user-images.githubusercontent.com/68007145/130325659-209cdc90-220c-46be-a4b0-64604112a402.jpeg" width="300">   
+
+
+#### 😎 저자 : 카일라쉬 아히르와
+#### ✏️ [코드 보기]()
+#### 🎺 후기
+~ing
