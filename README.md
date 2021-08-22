@@ -32,7 +32,7 @@ __책으로 공부하는 Machine Learning(Data Science) 입니다.__
 #### 😎 저자 : 조경래
 #### ✏️ [코드 보기](https://github.com/BOSOEK/Machine_Learning_with_Book/tree/main/Deep_Learning_Chatbot_for_First_Time)
 #### 🎺 후기
-~ing
+챗봇 개발 전 과정을 NLP 분야의 기본 부터 한번에 훝어 볼 수 있어서 좋고 실제 간단한 챗봇 구현후 카카오톡, 네이버 메신저를 통해 배포 과정까지 실제로 해볼 수 있는 점이 가장 큰 장점인것 같다.
 
 ***
 
@@ -41,6 +41,6 @@ __책으로 공부하는 Machine Learning(Data Science) 입니다.__
 
 
 #### 😎 저자 : 카일라쉬 아히르와
-#### ✏️ [코드 보기]()
+#### ✏️ [코드 보기](https://github.com/BOSOEK/Machine_Learning_with_Book/tree/main/GAN_Project)
 #### 🎺 후기
 ~ing
