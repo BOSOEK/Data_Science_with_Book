@@ -36,11 +36,11 @@ __책으로 공부하는 Machine Learning(Data Science) 입니다.__
 
 ***
 
-### 4. 실전 GAN 프로젝트
-<img src="https://user-images.githubusercontent.com/68007145/130325659-209cdc90-220c-46be-a4b0-64604112a402.jpeg" width="300">   
+### 4. 파이썬 머신러닝 판다스 데이터 분석
+<img src="https://user-images.githubusercontent.com/68007145/133711104-80631ac5-b631-45a3-9344-3506fdaf466e.jpeg" width="300">   
 
 
-#### 😎 저자 : 카일라쉬 아히르와
+#### 😎 저자 : 오승환
 #### ✏️ [코드 보기](https://github.com/BOSOEK/Machine_Learning_with_Book/tree/main/GAN_Project)
 #### 🎺 후기
-~ing
+방학 전공 캠프 기간에 AI강의를 들으며 교재로 쓰였던 책입니다. 개인적으로 판다스 같은 기본적인 역량은 충분히 갖추고 있다고 생각했었지만 DataFrame 응용이나 그래프 같은 서브 내용도 친절하게 나와있어 다시 기본 개념을 복습하기에 좋았습니다.
