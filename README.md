@@ -44,3 +44,18 @@ __책으로 공부하는 Machine Learning(Data Science) 입니다.__
 #### ✏️ [코드 보기](https://github.com/BOSOEK/Machine_Learning_with_Book/tree/main/Pandas_data_analysis)
 #### 🎺 후기
 방학 전공 캠프 기간에 AI강의를 들으며 교재로 쓰였던 책입니다. 개인적으로 판다스 같은 기본적인 역량은 충분히 갖추고 있다고 생각했었지만 DataFrame 응용이나 그래프 같은 서브 내용도 친절하게 나와있어 다시 기본 개념을 복습하기에 좋았습니다.
+
+***
+
+### 4. 실전 GAN 프로젝트
+<img src="https://user-images.githubusercontent.com/68007145/137902348-5343142f-aa11-4e76-bb29-f2f8fd343a3c.jpeg" width="300">   
+
+
+#### 😎 저자 : 카일라쉬 아히르와
+#### ✏️ [코드 보기]()
+#### 🎺 후기
+~ing
+
+
+
+
