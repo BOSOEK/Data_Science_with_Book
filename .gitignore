@@ -1,4 +1,4 @@
-.ipynb_checkpoints/
+!.ipynb_checkpoints/
 
-Deep_learning_from_the_founder_of_Keras/Chapter_5/train/
-Deep_learning_from_the_founder_of_Keras/Chapter_5/cats_and_dogs_small
+Deep_learning_from_the_founder_of_Keras/Chapter_5/train/*
+Deep_learning_from_the_founder_of_Keras/Chapter_5/cats_and_dogs_small/*
