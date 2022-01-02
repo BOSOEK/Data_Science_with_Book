@@ -1,5 +1,5 @@
 # Machine_Learning_with_Book
-__책으로 공부하는 Machine Learning(Data Science) 입니다.__   
+__책으로 공부하는 Machine Learning(Data Science) 입니다__   
 
 ## 📘 Book List
 
