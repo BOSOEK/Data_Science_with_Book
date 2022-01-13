@@ -47,7 +47,18 @@ __책으로 공부하는 Machine Learning(Data Science) 입니다__
 
 ***
 
-### 4. 실전 GAN 프로젝트
+### 5. 밑바닥부터 시작하는 딥러닝
+<img src="https://www.hanbit.co.kr/data/books/B8475831198_l.jpg" width="300">   
+
+
+#### 😎 저자 : 사이토 고키
+#### ✏️ [코드 보기]()
+#### 🎺 후기
+~ing
+
+***
+
+### 6. 실전 GAN 프로젝트
 <img src="https://user-images.githubusercontent.com/68007145/137902348-5343142f-aa11-4e76-bb29-f2f8fd343a3c.jpeg" width="300">   
 
 
